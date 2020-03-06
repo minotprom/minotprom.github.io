@@ -1,0 +1,19 @@
+.navbar{
+	padding-left:200px;
+	padding-right:200px;
+	padding-bottom:200px;
+}
+.pic{
+      position: relative;
+      top: 0;
+      left: 0;
+	  max-width: 100%;
+	  height: auto;
+    }
+.grid{
+      position: absolute;
+      top: 0px;
+      left: 0px;
+	  max-width: 100%;
+	  height: auto;
+    }
